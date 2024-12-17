@@ -1,2 +1,2 @@
-from request_builder import WallapopRequestBuilder
-from client import WallapopClient
+from .request_builder import WallapopRequestBuilder
+from .client import WallapopClient
