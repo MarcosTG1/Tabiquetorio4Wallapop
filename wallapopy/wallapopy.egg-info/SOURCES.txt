@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+wallapopy/__init__.py
+wallapopy/client.py
+wallapopy/request_builder.py
+wallapopy.egg-info/PKG-INFO
+wallapopy.egg-info/SOURCES.txt
+wallapopy.egg-info/dependency_links.txt
+wallapopy.egg-info/requires.txt
+wallapopy.egg-info/top_level.txt
